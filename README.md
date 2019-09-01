@@ -15,4 +15,4 @@
 
 ### Chapter2 
 ### ggplot2入门
-！[y](https://github.com/BlackTunami/ggplot.github.io/blob/master/pic/Rplot01.jpeg)
+![](https://github.com/BlackTunami/ggplot.github.io/blob/master/pic/Rplot01.jpeg)
