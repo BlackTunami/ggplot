@@ -1,6 +1,6 @@
 ## ggplot2. Elegant Graphics for Data Analysis
 ### Content
-[第2章 ggplot2入门](###第2章 ggplot2入门)  
+[第2章 ggplot2入门](###Chapter2)  
 第3章 工具箱  
 第4章 语法突破  
 第5章 用图层构建图像  
@@ -13,4 +13,5 @@
 第12章 用ggplot2编程  
 
 
-### 第2章 ggplot2入门
+### Chapter2 
+### ggplot2入门
