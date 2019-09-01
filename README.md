@@ -15,3 +15,4 @@
 
 ### Chapter2 
 ### ggplot2入门
+！[](https://raw.githubusercontent.com/BlackTunami/ggplot.github.io/master/Rplot01.tiff)
