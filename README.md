@@ -1,6 +1,6 @@
 ## ggplot2. Elegant Graphics for Data Analysis
 ### Content
-[第2章 ggplot2入门]()  
+[第2章 ggplot2入门](https://github.com/BlackTunami/ggplot.github.io/issues/1)  
 第3章 工具箱  
 第4章 语法突破  
 第5章 用图层构建图像  
