@@ -3,7 +3,7 @@ https://ggplot2-book.org
 ### Content
 [第2章 ggplot2入门](https://github.com/BlackTunami/ggplot.github.io/issues/1)  
 [第3章 工具箱](https://github.com/BlackTunami/ggplot.github.io/issues/2)  
-第4章 语法突破  
+[第4章 语法突破]()  
 第5章 用图层构建图像  
 第6章 标度，坐标轴和图例  
 第7章 定位  
